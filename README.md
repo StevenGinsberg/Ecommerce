@@ -1,4 +1,4 @@
-The Backend is hosted in an EC2 instance on AWS at this web address. https://github.com/StevenGinsberg/Ralph-Lauren-Initial-Pricing. The frontend is hosted an locally at http://localhost:3000.
+The Backend is hosted in an EC2 instance on AWS at this web address  http://localhost:5000.  The frontend is hosted an locally at http://localhost:3000.
 
 Quick Start Commands
 1. Start the Backend (.NET API)
